@@ -1,0 +1,120 @@
+html { background-color: #fff;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Sigmar One', cursive;
+   
+
+}
+em{
+  color: #304082;
+}
+
+li{
+  color: white;
+  padding:0.1em;
+
+}
+
+ul {
+  list-style-type: circle;
+  padding: 1em 1em 1em 1.5em;
+  text-align: left;
+  background-color: #304082;
+
+
+}
+
+h1{font-size: 4rem;
+  text-align: center;
+  background-color: white ;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  margin: 0;
+  border: 5px line #000;
+  border-radius: 10px;
+  display: block;
+  font-weight: bold;
+}
+
+a{
+  background-color: #d0b9f6;
+  display: block;
+  padding: 0.2rem;
+}
+
+a:hover{
+  color: white;
+}
+
+}
+nav{
+  background-color: #304082;
+  text-align: center;
+  padding: 3rem;
+  }
+nav li {
+    display: inline-block;
+    padding: 4px;
+}
+
+nav a {
+      display: inline-block;
+      padding: 0.5em o.75em;
+      background-color: #d0b9f6;
+      text-decoration: none;
+      border-radius:3px;
+
+    }
+
+h1,h2,dt,nav,ul{ font-family: 'Fredoka One', cursive;
+color: #06134f;
+
+}
+.cute {color: red}
+
+span {
+  color: white;
+  font-size: 1rem;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.3rem;
+  font-weight: normal;
+  line-height: 1;
+  color: white;
+
+}
+.neil{
+  color: #304082;
+  text-align: center;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+figure{
+  padding: 10px;
+  border: 5px solid white;
+  background-color: #304082;
+  border-radius: 10px
+  }
+footer{
+  border-radius: 10px
+  }
+img{
+  width: 100%;
+}
+dd{
+  margin: 2;
+  color: #304082;
+}
+figcaption{
+  font-style: italic;
+  padding: 5px;
+}
+dt {
+  font-weight: bold;
+  padding: 3px;
+
+}
