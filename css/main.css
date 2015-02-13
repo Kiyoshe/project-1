@@ -4,11 +4,6 @@ html { background-color: #CEE1C6;
 h2 {
   font-size: 2rem;
   font-family:'Bangers', cursive;
-
-
-}
-em{
-  color: #C67B7B;
 }
 
 li{
@@ -38,6 +33,7 @@ h1{font-size: 4rem;
 }
 
 a{
+  color: white;
   background-color: #D68F8E;
   display: block;
   padding: 0.2rem;
@@ -67,7 +63,7 @@ nav a {
 
     }
 
-h1,h2,dt,nav,ul,h3{ font-family: 'Bangers', cursive;
+h1,h2,dt,nav,ul,h3,footer{ font-family: 'Bangers', cursive;
 color: #C67B7B;
 
 }
@@ -101,20 +97,29 @@ figure{
   }
 footer{
   border-radius: 10px
+  color: white;
   }
+
 img{
   width: 100%;
 }
 dd{
   margin: 2;
-  color: #304082;
+  color: #E5BA8F;
 }
+
 figcaption{
   font-style: italic;
   padding: 5px;
-}
+  text-align: center;
+  }
 dt {
   font-weight: bold;
   padding: 3px;
+}
 
+i{ color: #E5BA8F
+}
+p{
+  color: #6F1031;
 }
