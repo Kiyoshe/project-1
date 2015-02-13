@@ -1,18 +1,18 @@
-html { background-color: #fff;
+html { background-color: #CEE1C6;
 }
 
 h2 {
   font-size: 2rem;
-  font-family: 'Sigmar One', cursive;
-   
+  font-family:'Bangers', cursive;
+
 
 }
 em{
-  color: #304082;
+  color: #C67B7B;
 }
 
 li{
-  color: white;
+  color: #55C1AC;
   padding:0.1em;
 
 }
@@ -21,14 +21,14 @@ ul {
   list-style-type: circle;
   padding: 1em 1em 1em 1.5em;
   text-align: left;
-  background-color: #304082;
+  background-color: #D68F8E;
 
 
 }
 
 h1{font-size: 4rem;
   text-align: center;
-  background-color: white ;
+  background-color: #FCD8C8 ;
   padding: 0.5em 0.5em 0.5em 0.5em;
   margin: 0;
   border: 5px line #000;
@@ -38,18 +38,18 @@ h1{font-size: 4rem;
 }
 
 a{
-  background-color: #d0b9f6;
+  background-color: #D68F8E;
   display: block;
   padding: 0.2rem;
 }
 
 a:hover{
-  color: white;
+  color: #2E8B73;
 }
 
 }
 nav{
-  background-color: #304082;
+  background-color: #F1E2D1;
   text-align: center;
   padding: 3rem;
   }
@@ -61,20 +61,20 @@ nav li {
 nav a {
       display: inline-block;
       padding: 0.5em o.75em;
-      background-color: #d0b9f6;
+      background-color: #F1E2D1;
       text-decoration: none;
       border-radius:3px;
 
     }
 
-h1,h2,dt,nav,ul{ font-family: 'Fredoka One', cursive;
-color: #06134f;
+h1,h2,dt,nav,ul,h3{ font-family: 'Bangers', cursive;
+color: #C67B7B;
 
 }
 .cute {color: red}
 
 span {
-  color: white;
+  color: #E5B27F;
   font-size: 1rem;
 }
 
@@ -87,7 +87,7 @@ blockquote {
 
 }
 .neil{
-  color: #304082;
+  color: #E5BA8F;
   text-align: center;
   font-size: 1rem;
   font-style: italic;
@@ -95,8 +95,8 @@ blockquote {
 
 figure{
   padding: 10px;
-  border: 5px solid white;
-  background-color: #304082;
+  border: 5px solid #F2E3D2;
+  background-color: #D68F8E;
   border-radius: 10px
   }
 footer{
